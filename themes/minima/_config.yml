@@ -11,8 +11,8 @@ desc: "Currently I am a master's student majoring in Artificial Intelligence, wi
 
 #menu
 menu:
-  Works: /Works
-  About: /About
+  Works: /works
+  About: /about
 
 #index/main page max show posts (in number)
 max_post: 10
