@@ -1,19 +1,13 @@
 ---
 mathjax: true
-title: wintersweet
-date: 2023-02-24 15:02:32
+title: Nice to meet you.
+date: 2023-01-01 00:00:00
 ---
 
-**ehwferufvoreofaldncfdbv**
-$$
-\lambda *3 = 2*\alpha
-$$
+**I am Mei Jiaojiao**
 
-1. hrefbhev
-2. wdsfvdnxkv
-3. dafbsjre,fv
-4. sdfgrbsfw
-5. ksefj,nrg
+Where my heart lies, let my brain lies also.😁
 
-> Hshhhhahahahhah
+Currently I am a master's student majoring in Artificial Intelligence, with fully-founded support of Chinese government scholarships 🇨🇳 and Stipendium Hungaricum scholarship programme 🇭🇺 . Bachelor's studies in Electronic Engineering, with two papers in signal processing, prizes in mathematical modeling competitions, two exchange semester programs, a degree in Chinese Law, eight months experience in patents drafting and analysis. This site is created to record my studying notes.📒
 
+Thank you for visiting this website! Have a nice day! 
