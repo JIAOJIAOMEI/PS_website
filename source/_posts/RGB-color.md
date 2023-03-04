@@ -11,7 +11,7 @@ In the RGB color model, each color is represented by a combination of three numb
 
 In Matplotlib, the RGB color values are defined on a scale of 0 to 1 instead of 0 to 255. This means that the red, green, and blue components of a color are represented as a decimal value between 0 and 1 instead of an integer value between 0 and 255.For example, pure red in Matplotlib is represented as (1, 0, 0), pure green as (0, 1, 0), and pure blue as (0, 0, 1). 
 
-![rgb_colors](RGB-color/rgb_colors.png)
+![rgb_colors](rgb_colors.png)
 
 ```python
 # Name: Mei Jiaojiao
